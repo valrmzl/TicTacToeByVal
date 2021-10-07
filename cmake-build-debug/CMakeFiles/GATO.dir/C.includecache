@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/luax2/Documents/3 sem/Memoria/Parcial 1/GATO/Gato.c
+stdio.h
+-
+stdlib.h
+-
+Gato.h
+C:/Users/luax2/Documents/3 sem/Memoria/Parcial 1/GATO/Gato.h
+
+C:/Users/luax2/Documents/3 sem/Memoria/Parcial 1/GATO/Gato.h
+
